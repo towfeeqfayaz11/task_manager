@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/towfeeq.fayaz/web_dev/myvenv"
+VIRTUAL_ENV="/Users/towfeeq.fayaz/task_manager/myvenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
